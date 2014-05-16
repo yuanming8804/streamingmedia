@@ -108,10 +108,10 @@
                 <ref href="rtsp://bupt01.video.edu.cn/CCTV-kid" width="640" height="480" bitrate="1044" />
     </media>
         <media id="370" version="1" title="CCTV-15 音乐" image="http://cn.daroonsoft.com/images/cctv_music.png" guide="cctvylpd">
-                <ref href="rtsp://bupt01.video.edu.cn/CCTV-music" width="640" height="480" bitrate="1044" />
+                <ref href="rtsp://218.204.223.237:554/live/1/66251FC11353191F/e7ooqwcfbqjoo80j.sdp" width="640" height="480" bitrate="1044" />
     </media>
         <media id="366" version="2" title="CCTV-风云足球" image="http://cn.daroonsoft.com/images/ffzq.png"  guide="fyzq">
-                <ref href="rtmp://livertmp.wasu.cn/live4/fyzq" width="640" height="480" bitrate="1044" />
+                <ref href="http://flv.bn.netease.com/tvmrepo/2012/7/C/7/E868IGRC7-mobile.mp4" width="640" height="480" bitrate="1044" />
     </media>
         <media id="214" version="1" title="CCTV高清" image="http://cn.daroonsoft.com/images/cctv_gaoqing.png" guide="cctv-gq"  >
                 <ref href="rtmp://202.108.17.104/live/test02" width="720" height="480" bitrate="1044" />

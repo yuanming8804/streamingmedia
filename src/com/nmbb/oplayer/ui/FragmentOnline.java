@@ -340,8 +340,8 @@ public class FragmentOnline extends FragmentBase implements OnItemClickListener 
 		root.add(new OnlineVideo("电视直播", R.drawable.logo_cntv, 1));
 		root.add(new OnlineVideo("视频网站", R.drawable.logo_youku, 0));
 
-		videos.add(new OnlineVideo("优酷视频", R.drawable.logo_youku, 0,
-				"http://3g.youku.com"));
+//		videos.add(new OnlineVideo("优酷视频", R.drawable.logo_youku, 0,
+//				"http://3g.youku.com"));
 		videos.add(new OnlineVideo("搜狐视频", R.drawable.logo_sohu, 0,
 				"http://m.tv.sohu.com"));
 		videos.add(new OnlineVideo("乐视TV", R.drawable.logo_letv, 0,
